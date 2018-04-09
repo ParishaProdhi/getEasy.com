@@ -1,0 +1,55 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,600);
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web:400,700);
+
+.orderlistcaption{
+word-spacing:50px;
+color:#870911; 
+font-size:1.5em;
+padding-left:250px;
+}
+.orderitems{
+word-spacing:20px;
+ color:#b45909;
+ font-size:1.2em;
+}
+.orderhr{
+background-color:#f7b307;
+width:800px;
+height:3px;
+}
+.orderhr1{
+background-color:#870911;
+width:800px;
+height:3px;
+}
+
+.orderbutton{
+color:#71370f;
+background-color:#f7b307;
+width:100px;
+}
+
+.orderbutton:hover{
+background-color:#f94608;
+}
+
+
+.payment{
+    position: sticky;
+	padding-top:70px;
+	top:0;
+    float:right;
+    background-color:#f0d180;
+    border: 2px solid #bd9f52;
+	height:350px;
+	width:350px;
+	}
+.paymentbutton{
+color:#372803; 
+background-color:#886b22;
+width:110px;
+
+}
+.paymentbutton:hover{
+background-color:#cfa840;
+}

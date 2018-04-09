@@ -1,0 +1,10 @@
+fa fa-home
+fa fa-pencil 
+fa fa-th
+fa fa-heart
+fa fa-mouse-pointer
+fa fa-table
+fa fa-area-chart
+fa fa-magic
+fa fa-edit
+fa fa-file-o
